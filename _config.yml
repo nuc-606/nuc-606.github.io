@@ -15,10 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    enable: true
-    github_id: Hezhexi2002
     clientID : 1a4a85de8dc7152d8e5e
     clientSecret : f4a888f0342328d4a3e2490d809e56441a2029b6
-    repo : nuc-606.github.io
+    repo : https://github.com/nuc-606/nuc-606.github.io
     owner : Hezhexi2002
     admin : Hezhexi2002
