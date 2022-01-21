@@ -1,11 +1,11 @@
-name: 
-author: 
-url: 
+name: nuc-606
+author: nuc-606 vision group
+url: https://nuc-606.github.io/
 baseurl: 
-resume_site: 
-description: 
-github_username: 
-github: 
+resume_site: https://nuc-606.github.io/
+description: the blog for nuc-606 vision group
+github_username: nuc-606
+github: https://github.com/nuc-606
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
