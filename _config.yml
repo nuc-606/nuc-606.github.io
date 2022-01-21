@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 1a4a85de8dc7152d8e5e
-    clientSecret : 4f37c610b088ec28cd685d0bff803eb43b35a3d4
+    clientID : 27eb2023a71e3444d051
+    clientSecret : b9a349159ec139b4b788a921aa783a1d181ad016
     repo : nuc-606.github.io
     owner : nuc-606
     admin : nuc-606
