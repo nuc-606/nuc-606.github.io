@@ -17,6 +17,6 @@ comments :
   gitalk :
     clientID : 94222c876cdb241854e6
     clientSecret : 5bf05db8cf19cc6496c5e22e3d57f53c99f3fcd5
-    repo : nuc-606.github.io
+    repo : Comments
     owner : nuc-606
     admin : nuc-606
