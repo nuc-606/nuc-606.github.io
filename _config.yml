@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : 37e2e17030210ff1de20
+    clientSecret : 10f083879d554c96cee4c529fbd939c2859b0313
+    repo : Comments
+    owner : nuc-606
+    admin : nuc-606
